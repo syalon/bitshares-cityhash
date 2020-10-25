@@ -5,9 +5,9 @@ require "cityhash/version"
 Gem::Specification.new do |s|
   s.name        = "cityhash"
   s.version     = CityHash::VERSION
-  s.authors     = ["Vasiliy Ermolovich"]
-  s.email       = ["younash@gmail.com"]
-  s.homepage    = "http://github.com/nashby/cityhash"
+  s.authors     = ["Vasiliy Ermolovich", "syalon"]
+  s.email       = ["younash@gmail.com", "hanomirin@foxmail.com"]
+  s.homepage    = "https://github.com/syalon/bitshares-cityhash.git"
   s.summary     = %q{ruby bindings for google's cityhash}
   s.description = %q{ruby bindings for google's cityhash}
 
