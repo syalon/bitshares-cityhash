@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "cityhash/version"
 
 Gem::Specification.new do |s|
-  s.name        = "cityhash"
+  s.name        = "bitshares-cityhash"
   s.version     = CityHash::VERSION
   s.summary     = 'cityhash gem for bitshares blockchain.'
   s.license     = 'MIT'
