@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Vasiliy Ermolovich", "syalon"]
   s.email       = ["younash@gmail.com", "hanomirin@foxmail.com"]
   s.homepage    = "https://github.com/syalon/bitshares-cityhash.git"
-  s.summary     = %q{ruby bindings for google's cityhash}
   
   s.rubyforge_project = "cityhash"
 
