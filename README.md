@@ -4,7 +4,7 @@ Ruby wrapper for google's cityhash.
 
 ### Install
 
-    gem install cityhash
+    gem install bitshares-cityhash
 
 ### Usage
 
