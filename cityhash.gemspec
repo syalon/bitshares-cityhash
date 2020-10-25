@@ -5,6 +5,8 @@ require "cityhash/version"
 Gem::Specification.new do |s|
   s.name        = "cityhash"
   s.version     = CityHash::VERSION
+  s.summary     = 'cityhash gem for bitshares blockchain.'
+  s.license     = 'MIT'
   s.authors     = ["Vasiliy Ermolovich", "syalon"]
   s.email       = ["younash@gmail.com", "hanomirin@foxmail.com"]
   s.homepage    = "https://github.com/syalon/bitshares-cityhash.git"
